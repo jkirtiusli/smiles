@@ -15,4 +15,8 @@
 # vendor/
 .idea
 smiles
+smiles-mcp
+smiles-test
+smiles-cli-test
+smiles-mcp-test
 main
